@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdullahakram.me-black?style=flat-square&logo=vercel)](https://abdullahakram.me)
 [![AI Demo](https://img.shields.io/badge/Live_AI_Demo-abdullahllm.vercel.app-6366f1?style=flat-square&logo=openai)](https://abdullahllm.vercel.app)
-[![Email](https://img.shields.io/badge/Email-iamabdullah.dev%40gmail.com-ea4335?style=flat-square&logo=gmail)](mailto:iamabdullahakram1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-iamabdullahakram1%40gmail.com-ea4335?style=flat-square&logo=gmail)](mailto:iamabdullahakram1@gmail.com)
 
 </div>
 
